@@ -1,0 +1,16 @@
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.Form1.resources
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.AssemblyInfo.cs
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\bin\Debug\net8.0-windows\Agend.exe
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\bin\Debug\net8.0-windows\Agend.deps.json
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\bin\Debug\net8.0-windows\Agend.runtimeconfig.json
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\bin\Debug\net8.0-windows\Agend.dll
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\bin\Debug\net8.0-windows\Agend.pdb
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.dll
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\refint\Agend.dll
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.pdb
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\Agend.genruntimeconfig.cache
+C:\Users\Alumno\Documents\Nilton\Agend\Agend\obj\Debug\net8.0-windows\ref\Agend.dll
